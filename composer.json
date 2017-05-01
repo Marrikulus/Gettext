@@ -1,5 +1,5 @@
 {
-    "name": "gettext/gettext",
+    "name": "Marrikulus/gettext",
     "type": "library",
     "description": "PHP gettext manager",
     "keywords": ["js", "gettext", "i18n", "translation", "po", "mo"],
@@ -13,10 +13,6 @@
             "role": "Developer"
         }
     ],
-    "support": {
-        "email": "oom@oscarotero.com",
-        "issues": "https://github.com/oscarotero/Gettext/issues"
-    },
     "require": {
         "php": ">=5.4.0",
         "gettext/languages": "^2.3"
